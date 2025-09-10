@@ -1,0 +1,1 @@
+"In Kochi Metro, we're leveraging AI to automate critical operational decisions — including train deployment, standby scheduling, and maintenance planning — ensuring efficient and intelligent transit management."
